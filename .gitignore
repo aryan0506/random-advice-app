@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/advice-generator-app-main
 /.pnp
 .pnp.js
 
